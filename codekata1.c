@@ -18,6 +18,6 @@ for(int i=0;i<=10000;i++)
     j=1;
   }
 }
-  if(j==1)
+  if(j==0)
     printf("unique");
 }
